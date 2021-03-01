@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# An app to Compare Star Wars Characters
+I built this app to:
+- Refresh React skills such as state management, event handling and list rendering.
+- Refresh API integration using [swapi](https://swapi.dev/)
+- Showcase React skills as part of a coding challenge for an interview
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Note: This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Credits to [Cylynx](https://www.cylynx.io/) for providing some React components and CSS.
 
 ## Available Scripts
 
